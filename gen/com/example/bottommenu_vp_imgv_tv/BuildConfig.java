@@ -2,5 +2,5 @@
 package com.example.bottommenu_vp_imgv_tv;
 
 public final class BuildConfig {
-    public final static boolean DEBUG = true;
+    public final static boolean DEBUG = false;
 }
